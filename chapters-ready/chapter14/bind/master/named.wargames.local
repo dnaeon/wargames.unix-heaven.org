@@ -1,0 +1,42 @@
+$TTL 43200              ; 12 hours
+wargames.local.     IN      SOA     ns01.wargames.local. root.wargames.local. (
+                                        2013080809      ; Serial
+                                        10800           ; Refresh (3 hours)
+                                        3600            ; Retry (1 hour)
+                                        604800          ; Expire (1 week)
+                                        300             ; Negative Response TTL
+                                )
+
+; DNS Servers
+                        IN      NS      ns01.wargames.local.
+
+; MX Records
+;                       IN      MX 10   mail.wargames.local.
+
+$ORIGIN wargames.local.
+
+gateway                 IN      A       10.10.144.1
+joshua                  IN      A       10.10.144.2
+
+david                   IN      A       10.10.144.7
+
+ns01			IN	A	10.10.144.10
+
+mail			IN	A	10.10.144.27
+
+atlantis		IN	A	10.10.144.31
+
+beastie			IN	A	10.10.144.99
+
+; Private FTP Server
+private-ftp		IN	A	10.10.144.223
+
+; Some UNIX heros
+ken.thompson		IN	A	10.10.144.109
+pdp7			IN	A	10.10.144.121
+dennis.ritchie		IN	A	10.10.144.153
+alfred.aho		IN	A	10.10.144.187
+peter.weinberger	IN	A	10.10.144.214
+brian.kernighan		IN	A	10.10.144.237
+w.r.stevens		IN	A	10.10.144.249
+ 

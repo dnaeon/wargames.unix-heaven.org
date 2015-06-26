@@ -1,0 +1,15 @@
+                      +----------------------------------+                      
+                      | Chapter14 - Down The Rabbit Hole |                      
+                      +----------------------------------+                      
+
+
+An authorative name server for the wargames.local domain is
+running at 10.10.144.10 IP address.
+
+You will find your next clue to this challenge there.
+
+---
+
+Hints: resolver(3), host(1), dig(1), hosts(5),
+       nslookup(1), tcpdump(8), ftp(1), resolv.conf(5)
+

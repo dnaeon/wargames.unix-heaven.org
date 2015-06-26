@@ -1,0 +1,10 @@
+                       +-------------------------------+                        
+                       | Chapter10 - The Secret Number |                        
+                       +-------------------------------+                        
+
+A file is hidden somewhere in the /usr/share directory.
+
+All that we know about it is that it is identified by the number 272490.
+
+Find the file and retrieve the secret key!
+

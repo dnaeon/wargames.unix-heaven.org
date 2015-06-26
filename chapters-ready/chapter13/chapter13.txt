@@ -1,0 +1,13 @@
+                       +--------------------------------+                       
+                       | Chapter13 - The Three Brothers |                       
+                       +--------------------------------+                       
+
+They swore to protect it with their lives.
+
+And only one of them shall reveal the key to the noble ones.
+
+---
+
+Hints: netstat(1), sockstat(1), nc(1), bzip2(1), socket(2),
+       base64(1), gzip(1), nmap(1), telnet(1), lsof(8), ss(8)
+

@@ -1,0 +1,17 @@
+                         +---------------------------+                          
+                         | Chapter11 - The Librarian |                          
+                         +---------------------------+                          
+
+In your home directory you will find a program.
+
+Executing this program will reveal you the secret key to the
+next chapter, but... there is just one issue with it...
+
+... an important piece of it is missing and you need to fix that.
+
+You will have to fix the program first to make it run!
+
+---
+
+Hints: file(1), nm(1), ldd(1), objdump(1), ldconfig(8), ld.so(8)
+

@@ -1,0 +1,10 @@
+                         +----------------------------+                         
+                         | Chapter07 - Lost And Found |                         
+                         +----------------------------+                         
+
+Somewhere in the data directory resides the key you are looking for.
+
+The file, which contains the first hint is owned by user with UID 1010.
+
+Now go and find(1) the file!
+

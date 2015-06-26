@@ -1,0 +1,16 @@
+                         +---------------------------+                          
+                         | Chapter03 - More Counting |                          
+                         +---------------------------+                          
+
+The total number of all bytes in the data files minus the
+total number of all lines will give you the key.
+
+---
+
+Hints: echo, ls(1), cat(1), wc(1), awk(1), bc(1), sed(1), pipe(7), diff(1)
+
+Useful links:
+
+* http://tldp.org/LDP/abs/html/arithexp.html
+* http://www.gnu.org/software/bash/manual/html_node/Pipelines.html
+

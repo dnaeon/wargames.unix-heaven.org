@@ -1,0 +1,11 @@
+                            +---------------------+                             
+                            | Chapter12 - Daemons |                             
+                            +---------------------+                             
+
+The secret key is guarded by a daemon, be careful!
+
+---
+
+Hints: cat(1), awk(1), ls(1), tr(1), ps(1), top(1), strace(1),
+       tty(1), pstree(1), daemon(3), lsof(8), tset(1), init(8)
+

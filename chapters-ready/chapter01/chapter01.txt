@@ -1,0 +1,10 @@
+                           +-----------------------+                            
+                           | Chapter01 - Dashified |                            
+                           +-----------------------+                            
+
+Retrieve the secret key from the file!
+
+---
+
+Hints: ls(1), sed(1), more(1), less(1), cat(1), awk(1)
+

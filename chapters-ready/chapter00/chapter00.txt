@@ -1,0 +1,16 @@
+                         +----------------------------+                         
+                         | Chapter00 - The Secret Key |                         
+                         +----------------------------+                         
+
+
+Welcome to the first chapter of the Unix/Linux wargames!
+
+In this chapter you will have to find the secret key,
+which is hidden somewhere in your home directory.
+
+Find the secret key in order to advance to the next chapter!
+
+---
+
+Hints: ls(1), more(1), less(1), cat(1)
+

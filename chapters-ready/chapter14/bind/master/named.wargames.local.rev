@@ -1,0 +1,41 @@
+$TTL 43200              ; 12 hours
+@     			IN      SOA     ns01.wargames.local. root.wargames.local (
+                                        2013080809      ; Serial
+                                        10800           ; Refresh (3 hours)
+                                        3600            ; Retry (1 hour)
+                                        604800          ; Expire (1 week)
+                                        300             ; Negative Response TTL
+                                )
+
+; DNS Servers
+                        IN      NS      ns01.wargames.local.
+
+$ORIGIN 144.10.10.in-addr.arpa.
+
+1			IN	PTR	gateway.wargames.local.
+2			IN	PTR	joshua.wargames.local.
+
+7			IN	PTR	david.wargames.local.
+
+10			IN	PTR	ns01.wargames.local.
+
+27			IN	PTR	mail.wargames.local.
+
+31			IN	PTR	atlantis.wargames.local.
+
+99			IN	PTR	beastie.wargames.local.
+
+
+; Anon FTP Server
+133			IN	PTR	anon-ftp.wargames.local.
+223			IN	PTR	private-ftp.wargames.local.
+
+; Some UNIX heros
+109			IN	PTR	ken.thompson.wargames.local.
+121			IN	PTR	pdp7.wargames.local.
+153			IN	PTR	dennis.ritchie.wargames.local.
+187			IN	PTR	alfred.aho.wargames.local.
+214			IN	PTR	peter.weinberger.wargames.local.
+237			IN	PTR	brian.kernighan.wargames.local.
+249			IN	PTR	w.r.stevens.wargames.local.
+

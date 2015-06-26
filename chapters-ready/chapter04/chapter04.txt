@@ -1,0 +1,14 @@
+                            +---------------------+                             
+                            | Chapter04 - Strings |                             
+                            +---------------------+                             
+
+While performing an audit of our UNIX systems,
+one of our security engineers discovered a
+serious bug in one of the programs that is used for authentication.
+
+He discovered that the programmer has carelessly
+left the password in the program unencrypted!
+
+Retrieve the password from the program in order to
+advance to the next chapter!
+

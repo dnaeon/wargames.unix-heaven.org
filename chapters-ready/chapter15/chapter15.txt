@@ -1,0 +1,24 @@
+                            +---------------------+                             
+                            | Chapter15 - The End |                             
+                            +---------------------+                             
+
+Every great journey comes to an end ...
+
+... and so does ours in the Wargames.
+
+Even though one journey ends, 
+your journey in the UNIX/Linux world should not!
+
+We hope that you have enjoyed the time while being here with us,
+and also learned something new and interesting!
+
+Before moving on there is one more thing to do ...
+
+... welcome to the Hall Of Fame!
+
+Login to the Wargames site and add your name to the Hall Of Fame!
+
+Username: hof
+Password: rockstar
+URL     : http://wargames.unix-heaven.org/user/login
+

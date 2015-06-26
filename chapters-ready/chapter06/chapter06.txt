@@ -1,0 +1,18 @@
+                      +---------------------------------+                       
+                      | Chapter06 - Know Your Neighbors |                       
+                      +---------------------------------+                       
+
+Joshua has decided to take a long vacation and travel in
+the country-side and visit places he have never been before.
+
+But before Joshua went on vacation he gave the keys from his home to
+the neighbors, who live across the street, so they can give the keys to
+Joshua's brother who should be coming back from work soon.
+
+Help Joshua's brother to retrieve the keys from the neighbors,
+while Joshua is on vacation.
+
+---
+
+Hints: ls(1), cat(1), awk(1), cut(1), grep(1)
+
